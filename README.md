@@ -93,7 +93,6 @@ The frontend application will run at `http://localhost:3000`.
       "title": "JavaScript",
       "snippet": "JavaScript is a programming language..."
     },
-    ...
   ]
   ```
 
